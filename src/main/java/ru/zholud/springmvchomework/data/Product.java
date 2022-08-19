@@ -1,4 +1,4 @@
-package ru.zholud.springmvchomework;
+package ru.zholud.springmvchomework.data;
 
 public class Product {
 
